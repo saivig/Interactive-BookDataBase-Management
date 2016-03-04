@@ -1,4 +1,4 @@
-# Interactive-Book-Management-DataBase
+# Interactive-BookDataBase-Management
 Read to Reflect
 
 # Synopsis
