@@ -17,10 +17,10 @@ The database is absent. So create your own database and link the provided web-ap
 
 # Contributors
 
-[Sai Vignan](http://www.iitd.ac.in/~cs5120289) and ofcourse [myself](http://www.iitd.ac.in/~cs5120301)
+[Sai Vignan](http://www.iitd.ac.in/~cs5120289) and [Bhargav](http://www.iitd.ac.in/~cs5120301)
 
 # License
 
-Copyright (C) 2014  V.Bhargav
+Copyright (C) 2014  Sai Vignan K
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
